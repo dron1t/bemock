@@ -1,13 +1,13 @@
 {
   "name": "bemock",
   "version": "1.0.0",
-  "description": "",
+  "description": "very very simple nodejs json http mock server",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["development, mocking"],
+  "author": "LukaszKedron",
+  "license": "MIT"
 }
